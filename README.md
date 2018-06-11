@@ -1,6 +1,6 @@
 # jssilder
-#a js silder lib not depence any other lib 
-#使用方法 如下  
+##自己写的轮播图
+###使用方法 如下  
 ```
 <script src="lyh-slider-1.2.js"></script>  
 
