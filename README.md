@@ -26,9 +26,10 @@
 * var superdom=createSlider('#slider') 函数返回一个被本人加强版过的dom 节点,简称superdom
 * 默认一旦调用createSlider('#slider') 就会调用初始化 并调用runSlider() 开始轮播  
 
-### 此super dom的接口：
+### 此superdom的api：
 * superdom.topSlider() 停止轮播
 * superdom.runSlider() 开始轮播
 * superdom.preShow() 上一张
 * superdom.nextShow() 下一张
 * superdom.showIndex() 指定序号展示
+* 还可指定爷爷的样式font-size 改变左右按钮大小， color 指定按钮和下面的点列表的颜色,(默认是颜色，大小是根据爷爷的font-size,和color的)
