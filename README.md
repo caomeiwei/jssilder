@@ -18,7 +18,7 @@
      </li>
    </ul>
   </div>
-  <script>createSlider('#slider'); //选择要轮播的元素,返回此元素的dom节点</script> 
+  <script>var superdom = createSlider('#slider'); //选择要轮播的元素,返回此元素的dom节点</script> 
 ```
 ### 小提示
 * 此轮播库不依赖任何其他库哦
