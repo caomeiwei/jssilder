@@ -28,7 +28,7 @@
 * 默认一旦调用createSlider('#slider') 就会调用初始化 并调用runSlider() 开始轮播  
 
 ### 此superdom的api：
-* superdom.topSlider() 停止轮播
+* superdom.stopSlider() 停止轮播
 * superdom.runSlider() 开始轮播
 * superdom.preShow() 上一张
 * superdom.nextShow() 下一张
